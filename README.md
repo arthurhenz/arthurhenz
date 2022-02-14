@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arthurhenz
-- 👀 I’m interested in web development
+- 👀 I’m interested in web/mobile development
 - 🌱 I’m currently learning React
 - 📫 How to reach me ... send me an Email henzarthur@gmail.com
 
